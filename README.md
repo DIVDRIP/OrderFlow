@@ -14,5 +14,4 @@ OrderFlow is a MERN-based web app that helps local vendors manage and track orde
 - MongoDB
 
 ## Live Demo
-Frontend: https://order-flow-weld.vercel.app/
-Backend: https://orderflow-2dfi.onrender.com
+https://order-flow-weld.vercel.app/
