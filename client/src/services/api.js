@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://orderflow-2dfi.onrender.com",
+  baseURL: "https://orderflow-2dfi.onrender.com/api",
 });
 
 export const getOrders = (params) =>
